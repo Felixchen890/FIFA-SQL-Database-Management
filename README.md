@@ -1,3 +1,7 @@
-# project_p2a7c_w6b3b_x5k1b
-<h1>CPSC304 Project Repo</h1>
-This is CPSC304 2022S2 Group 12
+# FootBall-SQL-Database
+
+## Designed a relational database with complex entities and relationship using aggregation and division.
+
+## Built a user-friendly frontend using JavaScript and CSS that allow users to interact with the database.
+
+## Created complex nested queries that allow users to look up and manipulate information respectively using PHP and MySQL.
