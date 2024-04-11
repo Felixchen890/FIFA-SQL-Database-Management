@@ -1,0 +1,15 @@
+Tasks:
+- basic setup (OracleDB) - July 31
+- Write SQL queries that select specific results - Aug 5
+	Insertion, Selection (Gordon Lim)
+	Update, Projection (Felix Chen)
+	Deletion, Join (Jiayu Huang)
+	Other queries will be added depending on the time.
+- implement a basic frontend - Aug 3
+- connect the frontend with PHP and OracleDB - Aug 5
+- have a final version in Github - Aug 7
+
+Challenges:
+- Using Git from the terminal 
+- Team members have no prior experience with SQL and PHP
+- Connecting the frontend, backend, and database together 
